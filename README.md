@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joca069
-- 📫 How to reach me jjoca902@gmail.com
+- 📫 jjoca902@gmail.com
 
 <!---
 joca069/joca069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
